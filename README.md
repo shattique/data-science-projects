@@ -1,4 +1,4 @@
-# data-science-projects
+# Data Science Projects
 
 This repository contains various data science projects focused on data analysis, predictive modeling, and machine learning. The projects showcase a range of techniques and workflows used to analyze and derive insights from diverse datasets. These include exploratory data analysis (EDA), feature engineering, and the application of various machine learning algorithms for predictive analytics.
 
